@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/IgorTargino/podcastr?color=%2304D361&style=flat">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/IgorTargino/Dashboard-Star-Wars?color=%2304D361&style=flat">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/IgorTargino/podcastr?style=flat">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/IgorTargino/Dashboard-Star-Wars?style=flat">
   
-  <a href="https://github.com/IgorTargino/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IgorTargino/podcastr?style=flat">
+  <a href="https://github.com/IgorTargino/Dashboard-Star-Wars/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IgorTargino/Dashboard-Star-Wars?style=flat">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
@@ -37,7 +37,8 @@ $ git clone https://github.com/IgorTargino/Dashboard-Star-Wars.git
 # Acesse a pasta do projeto no prompt de comando 
 $ cd Dashboard-Star-Wars
 
-# Duplo click no arquivo index.html para abrir.
+# Abra o arquivo index.html
+$ ./index.html
 
 ```
 ## 🚀 Tecnologias 
